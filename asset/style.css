@@ -1,0 +1,9 @@
+body {
+  font-family: 'PT Sans Narrow', sans-serif;
+}
+
+.weeks {
+  background-color: rgb(214, 214, 214);
+  margin-top: 20px;
+  margin-bottom: 20px;
+}
